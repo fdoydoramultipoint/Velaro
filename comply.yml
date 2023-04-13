@@ -1,0 +1,8 @@
+name: Velaro
+filePrefix: Velaro
+tickets:
+  github:
+    token: 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
+    username: fdoydoramultipoint
+    repo: Velaro
+approvedBranch: ""
